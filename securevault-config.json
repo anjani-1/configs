@@ -5,7 +5,10 @@
     "com.example.system",
     "com.example.background",
     "com.android.systemui",
+    "com.android.settings.intelligence",
+    "com.android.systemui",
     "com.duolingo",
+
     "com.potentialxp.securevault"
   ],
   "throttleOverridesMs": {

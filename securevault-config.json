@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "defaultThrottleMs": 5000,
+  "skipPackages": [
+    "com.example.system",
+    "com.example.background"
+  ],
+  "throttleOverridesMs": {
+    "com.example.heavyapp": 15000,
+    "com.example.lightapp": 2000
+  },
+  "offlineSkipEnabled": true
+}

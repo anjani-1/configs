@@ -3,7 +3,10 @@
   "defaultThrottleMs": 5000,
   "skipPackages": [
     "com.example.system",
-    "com.example.background"
+    "com.example.background",
+    "com.android.systemui",
+    "com.duolingo",
+    "com.potentialxp.securevault"
   ],
   "throttleOverridesMs": {
     "com.example.heavyapp": 15000,

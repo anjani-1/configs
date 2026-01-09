@@ -8,7 +8,8 @@
     "com.android.settings.intelligence",
     "com.android.systemui",
     "com.duolingo",
-
+    "com.samsung.android.app.aodservice",
+    "com.samsung.android.biometrics.app.setting",
     "com.potentialxp.securevault"
   ],
   "throttleOverridesMs": {

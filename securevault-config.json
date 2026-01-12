@@ -1,6 +1,15 @@
 {
   "version": 1,
   "defaultThrottleMs": 5000,
+  "excludedLineRegexByPackage": {
+    "com.whatsapp": [
+      "^Typing\\.?$",
+      "^[0-9]{1,2}:[0-9]{2}\\s?(AM|PM)$"
+    ],
+    "com.google.android.youtube": [
+      "^(Subscribe|Subscribed)$"
+    ]
+  },
   "skipPackages": [
     "com.example.system",
     "com.example.background",

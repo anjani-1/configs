@@ -1,0 +1,13 @@
+{
+  "stories": [
+    {
+      "id": "story-1",
+      "order": 1,
+      "type": "LISTEN",
+      "title": "Sample Story 1",
+      "textUrl": "https://drive.google.com/uc?export=download&id=1ugCZpaikNyuRufKCnxpNn6TCtPbOrR6r",
+      "audioUrl": "https://drive.google.com/uc?export=download&id=1o7a8qVj-7G_I1VS0oZs8T3eBhOSWQooi",
+      "passcode": "1234"
+    }
+  ]
+}

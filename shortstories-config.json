@@ -8,6 +8,14 @@
       "textUrl": "https://drive.google.com/uc?export=download&id=1ugCZpaikNyuRufKCnxpNn6TCtPbOrR6r",
       "audioUrl": "https://drive.google.com/uc?export=download&id=1TAHl24aBXp5fDDFJnUC0_vlXXwZzP8I9",
       "passcode": "1234"
+    },
+    {
+      "id": "story-2",
+      "order": 2,
+      "type": "SPEAK",
+      "title": "Sample Speak Story",
+      "textUrl": "https://drive.google.com/uc?export=download&id=1ugCZpaikNyuRufKCnxpNn6TCtPbOrR6r",
+      "passcode": "speak"
     }
   ]
 }

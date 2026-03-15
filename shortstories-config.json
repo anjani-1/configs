@@ -27,6 +27,15 @@
       "contentUrl": "https://drive.google.com/uc?export=download&id=1ugCZpaikNyuRufKCnxpNn6TCtPbOrR6r",
       "audioUrl": "https://drive.google.com/uc?export=download&id=1TAHl24aBXp5fDDFJnUC0_vlXXwZzP8I9",
       "passcode": "speak"
+    },
+    {
+      "id": "story-4",
+      "order": 4,
+      "type": "SPEAK",
+      "title": "Sample PDF Story",
+      "contentFormat": "PDF",
+      "contentUrl": "https://drive.google.com/uc?export=download&id=1ugCZpaikNyuRufKCnxpNn6TCtPbOrR6r",
+      "passcode": "speak"
     }
   ]
 }

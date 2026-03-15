@@ -17,6 +17,16 @@
       "contentFormat": "TEXT",
       "contentUrl": "https://drive.google.com/uc?export=download&id=1ugCZpaikNyuRufKCnxpNn6TCtPbOrR6r",
       "passcode": "speak"
+    },
+    {
+      "id": "story-3",
+      "order": 3,
+      "type": "LISTEN",
+      "title": "Sample Listen Story",
+      "contentFormat": "TEXT",
+      "contentUrl": "https://drive.google.com/uc?export=download&id=1ugCZpaikNyuRufKCnxpNn6TCtPbOrR6r",
+      "audioUrl": "https://drive.google.com/uc?export=download&id=1TAHl24aBXp5fDDFJnUC0_vlXXwZzP8I9",
+      "passcode": "speak"
     }
   ]
 }

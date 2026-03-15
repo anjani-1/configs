@@ -14,7 +14,8 @@
       "order": 2,
       "type": "SPEAK",
       "title": "Sample Speak Story",
-      "textUrl": "https://drive.google.com/uc?export=download&id=1ugCZpaikNyuRufKCnxpNn6TCtPbOrR6r",
+      "contentFormat": "TEXT",
+      "contentUrl": "https://drive.google.com/uc?export=download&id=1ugCZpaikNyuRufKCnxpNn6TCtPbOrR6r",
       "passcode": "speak"
     }
   ]

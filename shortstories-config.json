@@ -13,10 +13,10 @@
       "id": "story-2",
       "order": 2,
       "type": "SPEAK",
-      "title": "Sample Speak Story",
-      "contentFormat": "TEXT",
-      "contentUrl": "https://drive.google.com/uc?export=download&id=1ugCZpaikNyuRufKCnxpNn6TCtPbOrR6r",
-      "passcode": "speak"
+      "title": "To Do Baatein Ho Sakti Hai",
+      "contentFormat": "EPUB",
+      "contentUrl": "https://drive.google.com/uc?export=download&id=1vS11PbjPA7n5QwHfaWMdgHDrOxeQ7BDJ",
+      "passcode": "asdf"
     },
     {
       "id": "story-3",
